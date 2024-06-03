@@ -11,3 +11,5 @@ Requirements -
 1. Python 3.8+
 2. Django 3.2+
 3. SQLite (default) or any other supported database
+
+<img width="1051" alt="Screenshot 2024-06-03 at 10 38 06 AM" src="https://github.com/ShubhanshJain/URL_Shortner/assets/93034177/309a49a2-6f19-42ab-8dd9-18bef8702cfe">
